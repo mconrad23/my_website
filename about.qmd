@@ -9,6 +9,22 @@ I was born and raised in San Diego and have lived all of my life within the most
 
 One of my favorite parts of living here is being so close to the beach. As a kid, the beach is what you do in the 
 
+
+:::{.columns}
+
+::: {.column width="50%"}
+![San Diego](lajolla.jpg)
+
+*Charlie at the beach*
+:::
+
+::: {.column width="50%"}
+![Family pictures](family.jpg)
+
+*Family pictures at Windansea Beach c. 2012*
+:::
+
+
 [insert picture of family w/ caption]
 
 [insert picture of beach in SD w/ caption]
@@ -27,13 +43,6 @@ When it came to choosing my major, I thought about all of the things I wanted to
 # My Interests 
 
 ## Environmental Education
-
-My dad has been a middle school science teacher my whole life and has rooted in me a passion for education and 
-
-In my third and fourth year, I have taken several courses in environmental and science education.  
-
-[insert pic of WYP w/ caption]
-
 ## Restoration 
 
 I am also passionate about habitat restoration and the re-wilding natural places. I have taken courses like "Conservation Planning", "Restoration Skills", and "Biodiversity & Conservation Biology" which have taught me about what it means to conserve habitats for both the species that live there and the people who derive ecosystem services from natural spaces. 
