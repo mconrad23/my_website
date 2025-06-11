@@ -1,0 +1,33 @@
+---
+title: "Madison Conrad"
+image: me.JPG
+toc: false
+about:
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - text: GitHub
+      href: https://github.com/mconrad23
+      icon: github
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/madison-conrad-19mrc
+      icon: linkedin
+    - text: Email
+      href: mailto:mconrad650@ucsb.edu
+      icon: envelope
+format:
+  html:
+    theme: journal
+    css: styles.css
+    code-link: true
+    toc: false
+    page-layout: full
+    
+---
+
+# Welcome! 
+
+Hi I'm Maddi! I am a fourth year Environmental Studies student at UC Santa Barbara, and I am excited to be graduating at the end of this quarter! I am from San Diego, CA and I have a younger sister who is also studying at UCSB. I love going for sunset walks, reading new books, and catching up with friends :) 
+
+
