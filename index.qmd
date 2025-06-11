@@ -1,0 +1,31 @@
+---
+title: "Madison Conrad"
+image: me.JPG  # Make sure this file path matches your actual image location
+toc: false
+about:
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - text: GitHub
+      href: https://github.com/mconrad23
+      icon: github
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/madison-conrad-19mrc
+      icon: linkedin
+    - text: Email
+      href: mailto:mconrad650@ucsb.edu
+      icon: envelope
+format:
+  html:
+    theme: journal
+    css: styles.css
+    code-link: true
+    toc: false
+    page-layout: full
+
+---
+
+# About me! 
+
+Hi I'm Maddi! I am a fourth year Environmental Studies student at UC Santa Barbara, and I am excited to be graduating at the end of this quarter! 
