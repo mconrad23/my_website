@@ -20,8 +20,8 @@ website:
         text: "About Me"
       - file: projects.qmd
         text: "Projects"
-      - file: extras.qmd
-        text: "More"
+      - file: sunsets&spotify.qmd
+        text: "Sunsets & Spotify"
       - file: resume.qmd
         text: "Resume"
   page-footer:
