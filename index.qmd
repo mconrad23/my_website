@@ -21,7 +21,7 @@ format:
     theme: journal
     css: styles.css #link styles.css so can customize journal theme 
     code-link: true
-    toc: false
+    toc: true
     page-layout: full
     
 ---
