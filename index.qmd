@@ -4,22 +4,22 @@ image: me.JPG
 toc: false
 about:
   template: trestles
-  image-shape: round
-  image-width: 20em
+  image-shape: round #chnage shape of profile picture 
+  image-width: 20em 
   links:
-    - text: GitHub
-      href: https://github.com/mconrad23
-      icon: github
-    - text: LinkedIn
+    - text: GitHub 
+      href: https://github.com/mconrad23 #add link to GitHub
+      icon: github #icon for GitHub
+    - text: LinkedIn #add link to LinkedIn
       href: https://www.linkedin.com/in/madison-conrad-19mrc
-      icon: linkedin
-    - text: Email
-      href: mailto:mconrad650@ucsb.edu
-      icon: envelope
+      icon: linkedin #LinkedIn icon
+    - text: Email 
+      href: mailto:mconrad650@ucsb.edu #add link to email
+      icon: envelope #email icon
 format:
   html:
     theme: journal
-    css: styles.css
+    css: styles.css #link styles.css so can customize journal theme 
     code-link: true
     toc: false
     page-layout: full
