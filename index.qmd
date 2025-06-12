@@ -28,6 +28,6 @@ format:
 
 # Welcome! 
 
-Hi I'm Maddi! I am a fourth year Environmental Studies student at UC Santa Barbara, and I am excited to be graduating at the end of this quarter! I am from San Diego, CA and I have a younger sister who is also studying at UCSB. I love going for sunset walks, reading new books, and catching up with friends :) 
+Hi I'm Maddi! I am a fourth year Environmental Studies student at UC Santa Barbara, and I am excited to be graduating with a Bachelor of Science at the end of this quarter! I am from San Diego, CA and I have a younger sister who is also studying at UCSB. I love going for sunset walks, reading new books, and catching up with friends
 
 
