@@ -26,7 +26,7 @@
 }
 
 .social-links a:hover {
-  color: #0077b5; /* LinkedIn blue for example */
+  color: #0077b5;
 }
 
 .profile-text {
@@ -70,8 +70,9 @@ body {
   font-family: "Georgia", serif;
 }
 
-/* Always show visible headings (no hover needed) */
+/* show visible headings, no hover*/
 h1, h2, h3, h4, h5, h6 {
+  font-family: "Georgia", Sans-Serif;
   color: #014D4E !important;  /* dark navy — always visible */
 }
 
