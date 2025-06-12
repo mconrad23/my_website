@@ -26,18 +26,18 @@ One of my favorite parts of living here is being so close to the beach. My child
 
 :::
 
-
 # Why UCSB & Environmental Studies?
 
-When I was choosing which schools I wanted to apply to as a junior in high school, I could never have imagined that I would actually have ended up here at UCSB. I have had the most wonderful time and experiences going to college in Santa Barbara 
+When I was choosing which schools I wanted to apply to as a junior in high school, I could never have imagined that I would actually have ended up here at UCSB. I have had the most wonderful time and experiences going to college in Santa Barbara; this place is truly so special and has allowed me to grow and build confidence in myself and my academic, social, and professional abilities.
 
 ::: {.text-center}
 
 ![Bren Hall](images/bren.jpeg)
+
 *Looking out at the ocean from Bren Hall - One of my favorite views at UCSB!*
 :::
 
-When it came to choosing my major, I thought about all of the things I wanted to be when I grew up - a teacher, a painter, an architect, a nurse, a marine biologist, a park ranger, and a . Eventually I landed on majoring in "Environmental Studies" because I thought it would be a way for me to combine what I loved, the outdoors and the ocean, with what I envisioned for my career path. Ultimately, my decision to pursue a degree in Environmental Studies has opeded up a multitude of possible career paths and has allowed me to recieve an interdisciplinary education across the life, physical, and social sciences that all make up environmental science. 
+When it came to choosing my major, I thought about all of the things I wanted to be when I grew up - a teacher, a painter, an architect, a nurse, a marine biologist, a film scorer, and a park ranger. Eventually I landed on majoring in "Environmental Studies" because I thought it would be a way for me to combine what I loved, the outdoors and the ocean, with what I envisioned for my career path. Ultimately, my decision to pursue a degree in Environmental Studies has opeded up a multitude of possible career paths and has allowed me to receive an interdisciplinary education across the life, physical, and social sciences that all make up environmental science. 
 
 ::: {.text-center}
 
@@ -49,20 +49,42 @@ When it came to choosing my major, I thought about all of the things I wanted to
 
 ## Environmental Education
 
-My dad has been a middle school science teacher my whole life and has rooted in me a passion for education and learning 
+My dad has been a middle school science teacher my whole life and has rooted in me a passion for education and learning. In my third and fourth year of college, I have taken several courses in environmental and science education; these courses have taught me the foundations and defining principles of environmental education, and have taught me essential skills such as writing lesson plans that align with state curriculum standards. I have also had the chance to volunteer on the after-school programs with the Wilderness Youth Project (WYP) where I have had the chance to see first hand how building nature connection and having unstructured time to explore is so beneficial for kids' development into  environmentally-conscious adults. I hope to one day work in the field of environmental education and teach others about the importance of caring for the natural world around us 
 
-In my third and fourth year, I have taken several courses in environmental and science education.  
+::: {.text-center}
+
+![Wilderness Youth Project](images/wyp.jpeg)
+*Thursday Dragonflies - one of the after-school groups I was a volunteer for with WYP. This group was made up on kids in grades 3-5 and they were always eager to explore new places  *
+:::
 
 ## Restoration 
 
 I am also passionate about habitat restoration and the re-wilding natural places. I have taken courses like "Conservation Planning", "Restoration Skills", and "Biodiversity & Conservation Biology" which have taught me about what it means to conserve habitats for both the species that live there and the people who derive ecosystem services from natural spaces. 
 
-I have also worked as a Student Restoration Worker at the Cheadle Center for Biodiversity & Ecological Restoration (CCBER) 
+I have also worked as a Student Restoration Worker at the Cheadle Center for Biodiversity & Ecological Restoration (CCBER) where I have been able to participate in restoration work and learn about the process of designing and implementing a restoration project. I have learned a whole host of new skills, including how to install irrigation lines, identify invasive plant species, and different planting methods for native species in dfferent habitats. The projects I have mostly been involved with are the restoration of the Ellwood Mesa Butterfly Grove and the continued management of the restored North Campus Open Space. 
 
-[insert pic of working at CCBER]
+:::{.columns}
+
+::: {.column width="45%"}
+![Ellwood Mesa Butterfly Grove](images/ellwood.jpeg)
+
+*Eucalyptus trees in Ellwood Mesa Butterfly Grove*
+:::
+
+::: {.column width="45%"}
+![North Campus Open Space](images/ncos.jpeg)
+
+*View of NCOS from back of Gator*
+:::
+
+:::
 
 ## Coastal & Marine Ecosystems 
 
-I am an ocean lover at heart and 
+I am an ocean lover at heart and anything to do with the ocean fascinates me. I love learning about the connections between beach habitats, coastal wetlands, and deep-sea ecosystems. The fact that we know more about the surface of the Moon than we do about the oceans on our planet astounds me. Some of my favorite courses I've taken while at UCSB had to do with the ocean including "Sea Turtle Conservation & Species Management" and "Marine Resources" and in the future I hope to pursue a higher edcuation degree that is more specifically focused on coastal and marine ecosystems. 
 
-[insert picture of ocean]
+::: {.text-center}
+
+![Sea Turtles!](images/ocean.jpeg)
+*My favorite animals are sea turtles and seeing them on a beach in Hawai'i for the first time is something I will never forget! *
+:::
