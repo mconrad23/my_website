@@ -142,12 +142,29 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="sunsets" class="level1">
-<h1>Sunsets</h1>
-<p>Here is a collection of some of my favorite sunsets that I’ve seen!</p>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; padding: 10px;">
-<p><img src="images/devs.jpeg" width="100px"> <img src="images/palm.jpeg" width="100px"> <img src="images/hawaii.jpeg" width="100px"> <img src="images/purple.jpeg" width="100px"> <img src="images/iv.jpeg" width="100px"> <img src="images/gold.jpeg" width="100px"> <img src="images/holly.jpeg" width="100px"> <img src="images/house.jpeg" width="100px"></p>
+<section id="isla-vista-sunsets" class="level1">
+<h1>Isla Vista Sunsets</h1>
+<p>Here is a collection of some of my favorite sunsets that I’ve seen while in IV!</p>
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; padding: 5px;">
+<p><img src="images/palm.jpeg" alt="Palm" width="130" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15); cursor: pointer;" onclick="expandImg(this)"> <img src="images/purple.jpeg" alt="Purple" width="130" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15); cursor: pointer;" onclick="expandImg(this)"> <img src="images/holly.jpeg" alt="Holly" width="130" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15); cursor: pointer;" onclick="expandImg(this)"> <img src="images/house.jpeg" alt="House" width="130" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15); cursor: pointer;" onclick="expandImg(this)"> <img src="images/iv.jpeg" alt="Iv" width="130" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15); cursor: pointer;" onclick="expandImg(this)"></p>
 </div>
+<!-- Hidden overlay container for expanded image -->
+<div id="imgOverlay" onclick="closeImg()" style="display:none; position:fixed; top:0; left:0; width:100vw; height:100vh; background: rgba(0,0,0,0.8); justify-content:center; align-items:center; z-index:9999;">
+<p><img id="expandedImg" src="" alt="" style="max-width:90vw; max-height:90vh; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.5); cursor:pointer;"></p>
+</div>
+<script>
+function expandImg(img) {
+  const overlay = document.getElementById('imgOverlay');
+  const expanded = document.getElementById('expandedImg');
+  expanded.src = img.src;
+  expanded.alt = img.alt;
+  overlay.style.display = 'flex';
+}
+
+function closeImg() {
+  document.getElementById('imgOverlay').style.display = 'none';
+}
+</script>
 </section>
 <section id="spotify-playlists" class="level1">
 <h1>Spotify Playlists</h1>
