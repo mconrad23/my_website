@@ -11,7 +11,7 @@ Here are a few projects that I have done during undergrad here at UCSB
 
 description of project
 
-\[insert homework 1 code\]
+[🌸 Homework 1 - Word Doc output (PDF)](projects_files/homework1.pdf){target="_blank"}
 
 # Environmental Education Portfolio
 
