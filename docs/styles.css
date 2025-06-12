@@ -26,14 +26,14 @@
 }
 
 .social-links a:hover {
-  color: #0077b5; /* LinkedIn blue for example */
+  color: #0077b5;
 }
 
 .profile-text {
   max-width: 600px;
 }
 
-/* Optional: Adjust heading and paragraph spacing */
+/* adjust heading and paragraph spacing */
 .profile-text h1 {
   margin-bottom: 0.5em;
 }
@@ -62,4 +62,34 @@ h4 {
   font-size: 1rem;
   font-style: italic;
 }
+
+/* Set page background and base text */
+body {
+  background-color: #E7F4F4 !important;  /* light cream */
+  color: #014D4E !important;             /* navy text */
+  font-family: "Georgia", serif;
+}
+
+/* show visible headings, no hover*/
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Georgia", Sans-Serif;
+  color: #014D4E !important;  /* dark navy — always visible */
+}
+
+/* Navbar/header background */
+.navbar {
+  background-color: #81CDC6 !important;  /* dark teal */
+}
+
+/* Link colors */
+a {
+  color: #014D4E !important;  /* dark teal */
+}
+
+a:hover {
+  color: #E7F4F4 !important;  /* cream on hover */
+}
+
+
+
 
