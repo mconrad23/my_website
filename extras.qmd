@@ -3,12 +3,80 @@ title: "Extras"
 format: html
 ---
 
-# Sunsets
+# Isla Vista Sunsets
 
-Here is a collection of some of my favorite sunsets that I've seen! 
+Here is a collection of some of my favorite sunsets that I've seen while in IV! Feel free to click on each picture to expand for a better look :)
 
+::: {style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; padding: 5px;"}
+<img src="images/palm.jpeg" alt="Palm" width="130" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15); cursor: pointer;" onclick="expandImg(this)" />
+<img src="images/purple.jpeg" alt="Purple" width="130" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15); cursor: pointer;" onclick="expandImg(this)" />
+<img src="images/holly.jpeg" alt="Holly" width="130" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15); cursor: pointer;" onclick="expandImg(this)" />
+<img src="images/house.jpeg" alt="House" width="130" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15); cursor: pointer;" onclick="expandImg(this)" />
+<img src="images/iv.jpeg" alt="Iv" width="130" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15); cursor: pointer;" onclick="expandImg(this)" />
+:::
+
+<!-- Hidden overlay container for expanded image -->
+<div id="imgOverlay" onclick="closeImg()" style="display:none; position:fixed; top:0; left:0; width:100vw; height:100vh; background: rgba(0,0,0,0.8); justify-content:center; align-items:center; z-index:9999;">
+  <img id="expandedImg" src="" alt="" style="max-width:90vw; max-height:90vh; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.5); cursor:pointer;" />
+</div>
+
+<script>
+function expandImg(img) {
+  const overlay = document.getElementById('imgOverlay');
+  const expanded = document.getElementById('expandedImg');
+  expanded.src = img.src;
+  expanded.alt = img.alt;
+  overlay.style.display = 'flex';
+}
+
+function closeImg() {
+  document.getElementById('imgOverlay').style.display = 'none';
+}
+</script>
 
 
 # Spotify Playlists
 
-For the past four years, every month I make a new playlist of songs that I are new to me, one that I am listening to on repeat, and ones I am rediscovering. At the end of the month I transfer the monthly playlist into a yearly one which I review at the end of the year. I love going back and seeing how my music taste has evolved, what new artists I am listening to, and which ones I keep on repeat. Take a look at my yearly playlists below!
+For the past five years, I make a new playlist every month of songs that are new to me, one that I am listening to on repeat, and ones I am rediscovering. At the end of the month I transfer the monthly playlist into a yearly one which I review at the end of the year. I love going back and seeing how my music taste has evolved, what new artists I am listening to, and which ones I keep on repeat. Take a look at my yearly playlists below!
+
+## Years
+
+### 2021
+
+::: {html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7kAprAkPGSknLhv1zDH7tq?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
+
+</iframe>
+:::
+
+### 2022
+
+::: {html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6DWvwfM9EFYPkRZw1WZ5Gy?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
+
+</iframe>
+:::
+
+### 2023
+
+::: {html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7vRSp3zEKbylKwa0YISMAa?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
+
+</iframe>
+:::
+
+### 2024
+
+::: {html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4fWV6SZxuNdFfJqDX1AztI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
+
+</iframe>
+:::
+
+### 2025
+
+::: {html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1mdj7B2NHMQq6t61LE3Y8i?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
+
+</iframe>
+:::
