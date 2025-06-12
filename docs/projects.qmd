@@ -3,3 +3,17 @@ title: "Projects"
 format: html
 ---
 
+Here are a few projects that I have done during undergrad here at UCSB 
+
+# Homework 1 - Env S 193DS 
+
+
+# Environmental Education Portfolio 
+## Env S 127B - Advanced Environmental Edcuation & Practicum 
+
+
+# The People’s Tour: A New Paradigm for Cultural Tourism - Ocean Beach, San Diego, CA 
+
+## Env s 130B - Global Tourism & Environmental Justice
+
+[![130B thumbnail](images/130b,jpg)](130b_paper.pdf){target="_blank"}
