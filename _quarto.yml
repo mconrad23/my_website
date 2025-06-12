@@ -1,0 +1,39 @@
+project:
+  type: website
+  resources:
+    - images/
+  output-dir: docs
+  render:
+    - index.qmd
+    - about.qmd
+    - projects.qmd
+    - extras.qmd
+    - resume.qmd
+
+website:
+  title: "Madison Conrad"
+  navbar:
+    left:
+      - file: index.qmd
+        text: "Home"
+      - file: about.qmd
+        text: "About Me"
+      - file: projects.qmd
+        text: "Projects"
+      - file: extras.qmd
+        text: "More"
+      - file: resume.qmd
+        text: "Resume"
+  page-footer:
+    center: "© 2025 Madison Conrad"
+  sidebar: false
+
+format:
+  html:
+    theme: journal  
+    css: styles.css
+    toc: false
+  
+
+
+

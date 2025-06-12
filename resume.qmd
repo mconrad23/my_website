@@ -1,0 +1,8 @@
+---
+title: "Resume"
+format: html
+---
+
+Take a look at my resume for information about my work experience, certifications, volunteering, and education! 
+
+[🌸 Madison Conrad - Resume (PDF)](resume.pdf){target="_blank"}
