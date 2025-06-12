@@ -20,7 +20,7 @@ website:
         text: "About Me"
       - file: projects.qmd
         text: "Projects"
-      - file: sunsets&spotify.qmd
+      - file: extras.qmd
         text: "Sunsets & Spotify"
       - file: resume.qmd
         text: "Resume"
